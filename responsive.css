@@ -1,0 +1,1552 @@
+/* Normal desktop :1366px. */
+@media (min-width: 1366px) and (max-width: 1600px) {
+  
+/*about-section--*/
+.about-area {
+    padding: 107px 0 116px;
+}
+.about-thumb {
+    margin-left: -115px;
+}
+.about-thumb img {
+    width: 95%;
+}
+.subscribe-form button {
+    right: 32.5%;
+}
+/*blog-section*/
+.blog-area.blog-list .blog-content p {
+    width: 70%;
+}
+.blog-content {
+    padding: 16px 25px 30px;
+}
+
+.blog-content h4 a {
+    font-size: 20px;
+}
+
+.section-title p.description {
+    width: 90%;
+}
+/*service-section*/
+.service-box {
+    padding: 42px 22px 34px;
+}
+/*about-inner*/
+.about-area-inner {
+    padding: 113px 0 120px;
+}
+
+.about-area-inner .about-thumb {
+    margin-left: -34px;
+}
+
+/*--blog-details--*/
+.blog-details-content h2 {
+    font-size: 28px;
+    line-height: 41px;
+}
+
+/*--services-details--*/
+.service-details-main-title h1 {
+    font-size: 32px;
+}
+
+.service-details-content h2 {
+    font-size: 16px;
+    padding-bottom: 3px;
+    padding-top: 0;
+}
+/*contact-section*/
+.contact-content h4 {
+    font-size: 20px;
+}
+
+
+.faqs-content h4 {
+    font-size: 20px;
+}
+
+.accordion h3 {
+    text-indent: 10px;
+}
+
+.accordion li p {
+    font-size: 15px;
+    margin-left: 0;
+}
+
+.accordion h3::after {
+    right: 15px;
+    top: 32px;
+}
+
+/*--team-section--*/
+.team-social-icon {
+    right: -22%;
+}
+
+
+
+
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1365px) {
+  
+
+ /*--about-section--*/
+ .about-area {
+    padding: 105px 0 118px;
+} 
+ .about-thumb img {
+    width: 96%;
+}
+
+/*--blog-section--*/
+.blog-content {
+    padding: 16px 20px 30px;
+}
+.blog-content h4 a {
+    font-size: 18px;
+}
+/*--about-section-tow--*/
+.about-area-tow {
+    padding: 108px 0 157px;
+}
+/*--subcribe-section--*/
+.subscribe-area .section-title p.text {
+    width: 60%;
+}
+.subscribe-form button {
+    right: 30%;
+}
+
+/*about-inner-section*/
+.about-area-inner {
+    padding: 100px 0 120px;
+}
+.about-area-inner .vedio {
+    right: 6%;
+}
+.about-area-inner .about-thumb {
+    margin-left: -36px;
+}
+
+
+/*--blog-details--*/
+.blog-details-content h2 {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+/*--services-details--*/
+.service-details-main-title h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.service-details-overview-list ul li {
+    padding-top: 11px;
+}
+
+.service-details-content h2 {
+    font-size: 15px;
+    padding-bottom: 5px;
+    padding-top: 4px;
+}
+/*contact-section*/
+.contact-content h4 {
+    font-size: 20px;
+}
+
+.accordion h3 {
+    font-size: 15px;
+}
+.accordion li p {
+    font-size: 15px;
+    width: 88%;
+}
+
+/*team-sction*/
+.team-social-icon {
+    right: -32%;
+}
+
+
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/*--header-section--*/
+.header-menu ul li a {
+    margin-right: 10px;
+}
+
+.header-button a {
+    margin-left: 6px;
+}
+
+/*hero-section--*/
+.hero-content h1 {
+    font-size: 50px;
+}
+
+/*--about-section--*/
+.about-area {
+    padding: 106px 0 118px;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb {
+    margin-left: -300px;
+    margin-right: 13px;
+}
+
+.vedio {
+    right: 15%;
+}
+/*-blog-section-*/
+.blog-content {
+    padding: 16px 28px 30px;
+}
+
+.blog-content h4 a {
+    font-size: 18px;
+}
+
+/*--faeture-secton--*/
+.faeture-box {
+    padding: 42px 20px 33px;
+}
+/*about-section-tow*/
+.about-area-tow {
+    padding: 108px 0 157px;
+}
+/*service-section*/
+.service-content h4 {
+    font-size: 18px;
+}
+
+/*subscribe-section*/
+.subscribe-form button {
+    right: 30%;
+}
+
+/*about-inner-section*/
+.about-area-inner {
+    padding: 102px 0 120px;
+}
+.about-area-inner .about-thumb {
+    margin-left: -226px;
+}
+.about-area-inner .vedio {
+    right: 3%;
+    line-height: 195px;
+    width: 30%;
+}
+
+.about-area-inner .vedio a {
+    width: 58px;
+    height: 58px;
+    line-height: 60px;
+}
+
+/*contact-section*/
+.contact-content h4 {
+    font-size: 16px;
+}
+
+/*faqs-section*/
+.faqs-content h4 {
+    font-size: 16px;
+}
+.accordion h3 {
+    font-size: 13px;
+    text-indent: 8px;
+}
+.accordion li p {
+    font-size: 14px;
+    margin-left: 0px;
+}
+.accordion h3::after {
+    right: 14px;
+    top: 29px;
+}
+
+.faqs-imgs-thumb img {
+    margin-left: -8px;
+}
+
+/*--blog-details--*/
+.blog-details-content h2 {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.recent-widget-thumb {
+    margin-right: 5px;
+}
+
+.sidber-widget-recent-post .recent-widget-content a {
+    font-size: 14px;
+    line-height: 14px;
+}
+.widget-categories-menu ul li a {
+    font-size: 13px;
+}
+
+/*--services-details-section--*/
+.service-details-main-title h1 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.service-details-overview-list ul li {
+    padding-top: 9px;
+}
+
+.service-details-overview-list ul li::before {
+    top: 18px;;
+}
+
+.service-details-number {
+    right: 20px;
+}
+
+.service-details-content h2 {
+    font-size: 18px;
+    padding-top: 0px;
+    line-height: 26px;
+}
+
+/*--account-section--*/
+.user-name p {
+    font-size: 13px;
+    line-height: 24px;
+}
+
+/*-portfolio-section*/
+.poftolio-content h4 a {
+    font-size: 13px;
+}
+
+/*inner-service*/
+.service-content-tow {
+    top: 7%;
+}
+/*team-section*/
+.team-social-icon {
+    right: -31%;
+}
+
+
+
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.top-bar-header {
+    display: none;
+}
+.header-area {
+    display: none;
+}
+
+/*hero-section*/
+.hero-area {
+    height: 700px;
+}
+.hero-content h1 {
+    font-size: 40px;
+}
+
+/*about-section*/
+.about-thumb {
+    margin-left: 0;
+}
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 32px;
+}
+.vedio {
+    right: 14%;
+    bottom: 36%;
+}
+/*blog-sectin*/
+.blog-area {
+    padding: 120px 0 92px;
+}
+.blog-area.blog-list .blog-content p {
+    width: 75%;
+}
+.single-blog-box {
+    margin-bottom: 25px;
+}
+.blog-content {
+    padding: 16px 16px 30px;
+}
+
+/*faeture-section*/
+.faeture-area {
+    padding: 102px 0 128px;
+}
+.faeture-content-tow {
+    margin-bottom: 40px;
+}
+/*--about-section--*/
+.about-area-tow {
+    padding: 118px 0 117px;
+}
+.about-thumb-tow {
+    text-align: left;
+    margin-right: 0;
+    margin-bottom: 55px;
+}
+.counter-box {
+    right: 40%;
+}
+.about-content-tow {
+    margin-top: 50px;
+}
+
+/*service-section*/
+.service-box {
+    padding: 42px 10px 34px;
+}
+.section-title p.text {
+    width: 85%;
+}
+
+/*subscribe-section*/
+.subscribe-area .section-title p.text {
+    width: 90%;
+}
+.subscribe-form button {
+    right: 31%;
+    padding: 10px 12px;
+}
+
+.subscribe-form input {
+    padding-right: 116px;
+}
+
+/*contact-info*/
+.contact-information-area {
+    padding: 118px 0 100px;
+}
+.contact-information-box {
+    margin-bottom: 20px;
+}
+.google-map iframe {
+    height: 400px;
+}
+
+/*footer-section*/
+.footer-widget-content {
+    margin-top: 64px;
+}
+
+
+/*about-inner-section*/
+.about-area-inner {
+    padding: 116px 0 120px;
+}
+.about-area-inner .about-thumb {
+    margin-left: 0;
+}
+.about-area-inner .vedio {
+    right: 3%;
+    bottom: 6%;
+    width: 25%;
+    height: 32%;
+}
+
+/*--blog-details--*/
+.blog-detials-area {
+    padding: 110px 0 88px;
+}
+
+.blog-details-content h2 {
+    line-height: 44px;
+}
+
+/*--services-details-section--*/
+.service-detials-area {
+    padding: 110px 0 87px;
+}
+
+.service-details-main-title h1 {
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.service-details-overview-list ul li {
+    padding-top: 12px;
+}
+
+.service-details-overview-list ul li::before {
+    top: 20px;
+}
+/* my-account-css */
+.account-area {
+    padding: 118px 0 128px;
+}
+.d-single-info {
+    margin-bottom: 18px;
+}
+.user-name p {
+    font-size: 14px;
+}
+.tabcontent {
+    margin-top: 40px;
+}
+
+/*--account-details-section-*/
+.account-details-area {
+    padding: 120px 0 128px;
+}
+/*contact-section*/
+.contact-form {
+    margin-bottom: 50px;
+}
+/*faqs-section*/
+.faqs-imgs-thumb img {
+    margin-left: 0;
+    margin-bottom: 50px;
+}
+.accordion li p {
+    width: 90%;
+}
+
+/*portfolio-section*/
+.portfolio-area .section-title p {
+    width: 80%;
+}
+.portfolio_menu ul li {
+    margin-right: 1px;
+}
+
+/*--portfolio--details-section--*/
+.portfolio-details-thumb img {
+    margin-left: 0;
+    margin-bottom: 35px;
+}
+
+/*inner-service*/
+.service-area-tow {
+    padding: 105px 0 90px;
+}
+.service-box-tow {
+    margin-bottom: 28px;
+}
+.service-content-tow {
+    top: 12%;
+}
+/*team-section*/
+.team-social-icon {
+    right: -40%;
+}
+
+
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+/*--top-bar--*/
+.top-bar-header {
+    display: none;
+}
+.header-area {
+    display: none;
+}
+
+/*--hero-section--*/
+.hero-area {
+    height: 600px;
+}
+.hero-content h1 {
+    font-size: 30px;
+}
+.hero-content p {
+    width: 100%;
+}
+/*about-section*/
+.about-thumb {
+    margin-left: 0;
+}
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.vedio {
+    right: 12%;
+    bottom: 39%;
+}
+/*--blog-section--*/
+.blog-area {
+    padding: 120px 0 90px;
+}
+.blog-area.blog-list .blog-content p {
+    width: 100%;
+}
+
+.blog-area.blog-grid {
+    padding: 118px 0 99px;
+}
+
+.blog-content {
+    padding: 16px 80px 30px;
+    margin-bottom: 28px;
+}
+
+
+/*feature-section*/
+.faeture-area {
+    padding: 102px 0 88px;
+}
+.faeture-box {
+    margin-bottom: 30px;
+}
+.faeture-box.box-grid {
+    margin-top: 0;
+}
+.faeture-content-tow {
+    margin-bottom: 50px;
+}
+
+/*about-section-tow*/
+.about-area-tow {
+    padding: 118px 0 118px;
+}
+.about-thumb-tow {
+    text-align: left;
+    margin-right: 0;
+}
+.counter-box {
+    right: 100px;
+}
+
+.about-content-tow {
+    margin-top: 100px;
+}
+
+/*--section-title--*/
+.section-title h1 {
+    font-size: 35px;
+    line-height: 40px;
+}
+.section-title p.text {
+    width: 100%;
+}
+.subscribe-area .section-title p.text {
+    width: 90%;
+}
+/*subscribe-section*/
+.subscribe-area {
+    padding: 100px 0 120px;
+}
+.subscribe-form input {
+    width: 100%;
+}
+
+.subscribe-form button {
+    right: 8%;
+}
+
+/*testimonail-section*/
+.testimonial-box {
+    margin-right: 0;
+}
+/*contact-info-section*/
+.contact-information-area {
+    padding: 118px 0 91px;
+}
+.contact-information-box {
+    margin-bottom: 28px;
+}
+.google-map iframe {
+    height: 480px;
+}
+
+/*--footer-section--*/
+.footer-area {
+    padding: 120px 0 34px;
+}
+.footer-widget-content {
+    margin-top: 54px;
+}
+
+
+/*about-sectin-inner*/
+.about-area-inner {
+    padding: 118px 0 118px;
+}
+.about-area-inner .about-thumb {
+    margin-left: 0;
+}
+.about-area-inner .vedio {
+    right: 3%;
+    bottom: 7%;
+    width: 34%;
+    height: 36%;
+    line-height: 167px;
+}
+
+/*--blog-details-section--*/
+.blog-detials-area {
+    padding: 110px 0 87px;
+}
+
+.blog-details-content h2 {
+    line-height: 40px;
+}
+
+/*--services-details-section--*/
+.service-detials-area {
+    padding: 109px 0 86px;
+}
+
+.service-details-main-title h1 {
+    font-size: 36px;
+    line-height: 45px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.service-details-overview-list ul li {
+    padding-top: 17px;
+}
+
+.service-details-overview-list ul li::before {
+    top: 25px;
+}
+
+
+/*--Start-My-account-css--*/
+.account-area {
+    padding: 104px 0 128px;
+}
+
+.back-home {
+    float: left;
+    margin-bottom: 18px;
+    margin-top: 10px;
+}
+.d-single-info {
+    border: 1px solid #ccc;
+    padding: 18px 19px;
+    border-radius: 5px;
+    margin-bottom: 14px;
+    margin-top: 16px;
+}
+.tabcontent {
+    margin-top: 36px;
+}
+
+/*--account-details-section--*/
+.account-details-area {
+    padding: 120px 0 128px;
+}
+/*breadcumb-secction*/
+.bradcumb-content {
+    text-align: center;
+}
+.bradcumb-content h1 {
+    font-size: 46px;
+}
+
+/*contact-form*/
+.contact-form {
+    margin-bottom: 50px;
+    padding: 34px 42px 48px;
+}
+
+.contact-content h4 {
+    font-size: 19px;
+}
+/*faqs-section*/
+.faqs-imgs-thumb img {
+    margin-left: 0;
+    margin-bottom: 38px;
+}
+.accordion h3 {
+    font-size: 14px;
+    text-indent: 10px;
+    font-size: 15px;
+}
+.accordion li p {
+    font-size: 13px;
+    margin-left: 6px;
+}
+
+/*portfolio-section*/
+.portfolio-area .section-title p {
+    width: 95%;
+}
+.portfolio_menu ul li {
+    margin-right: 8px;
+    margin-bottom: 26px;
+}
+
+/*--porfolio-details-section--*/
+.row.box-shadow {
+    padding: 40px 48px 39px;
+}
+.portfolio-details-thumb img {
+    margin-left: 0;
+    margin-bottom: 28px;
+}
+/*inner-service*/
+.service-area-tow {
+    padding: 105px 0 100px;
+}
+.service-box-tow {
+    margin-bottom: 20px;
+}
+
+
+
+
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width:599px) {
+ .top-bar-header {
+    display: none;
+}   
+.header-area {
+    display: none;
+}
+/*hero-section*/
+.hero-area {
+    height: 650px;
+}
+.hero-content h1 {
+    font-size: 44px;
+    line-height: 50px;
+}
+.hero-content p {
+    width: 100%;
+}
+
+/*about-section*/
+.about-thumb {
+    margin-left: 0;
+}
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.vedio {
+    right: 11%;
+}
+
+
+/*feature-section*/
+.faeture-area {
+    padding: 104px 0 91px;
+}
+/*blog-section*/
+.blog-area {
+    padding: 120px 0 94px;
+}
+.blog-area.blog-list .blog-content p {
+    width: 100%;
+}
+.single-blog-box {
+    margin-bottom: 25px;
+}
+/*faeture-section*/
+.faeture-content-tow {
+    margin-bottom: 40px;
+}
+.faeture-box.box-grid {
+    margin-top: 0;
+}
+.faeture-box {
+    margin-bottom: 28px;
+}
+
+/*about-section-tow*/
+.about-area-tow {
+    padding: 117px 0 119px;
+}
+.about-thumb-tow {
+    text-align: left;
+    margin-right: 0;
+    margin-bottom: 55px;
+}
+
+/*section-title*/
+.section-title h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.section-title p.text {
+    width: 95%;
+}
+
+.subscribe-area .section-title p.text {
+    width: 100%;
+}
+
+/*subscribe-section*/
+.subscribe-form input {
+    width: 80%;
+}
+.subscribe-form input {
+    width: 80%;
+    padding-right: 155px;
+}
+.subscribe-form button {
+    right: 13.4%;
+}
+/*testi-section*/
+.testimonial-box {
+    margin-right: 0;
+}
+
+/*contact-info-section*/
+.contact-information-area {
+    padding: 118px 0 95px;
+}
+.contact-information-box {
+    margin-bottom: 24px;
+}
+.google-map iframe {
+    width: 100%;
+    height: 415px;
+}
+/*footer-section*/
+.footer-widget-content {
+    margin-top: 50px;
+}
+
+
+/*about-inner-section*/
+.about-area-inner {
+    padding: 119px 0 120px;
+}
+.about-area-inner .about-thumb {
+    margin-left: 0;
+}
+.about-area-inner .vedio {
+    right: 3%;
+    bottom: 8%;
+    width: 36%;
+    height: 41%;
+    line-height: 178px;
+}
+/*breadcumb-section*/
+.bradcumb-area {
+    text-align: center;
+}
+.bradcumb-content h1 {
+    font-size: 54px;
+    margin-bottom: 10px;
+}
+/*--blog-deatils--*/
+.blog-detials-area {
+    padding: 100px 0 76px;
+}
+.blog-details-content h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.blog-details-author-thumb {
+    float: inherit;
+    margin-right: 0;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.blog-details-author-content {
+    text-align: center;
+}
+
+.blog-details-comment.reply {
+    margin-left: 0;
+}
+
+.blog-details-contact {
+    margin: 0;
+}
+
+/*--services-details-section--*/
+.service-detials-area {
+    padding: 100px 0 78px;
+}
+
+.service-details-main-title h1 {
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.service-details-overview-list ul li {
+    padding-top: 14px;
+}
+
+.service-details-overview-list ul li::before {
+    top: 21px;
+}
+
+/*--My-account-css--*/
+.account-area {
+    padding: 102px 0 127px;
+}
+.back-home {
+    float: left;
+  margin-top: 22px;
+}
+.d-single-info {
+    margin-bottom: 6px;
+    margin-top: 25px;
+}
+.tabcontent {
+    margin-top: 40px;
+}
+.text-left tr th {
+    padding: 11px 33px;
+    position: relative;
+}
+
+/*--account-details-section--*/
+.account-details-area {
+    padding: 117px 0 128px;
+}
+
+/*contact-form*/
+.contact-form {
+    padding: 34px 50px 48px;
+    margin-bottom: 32px;
+}
+.contact-content h4 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+/*faqs-section*/
+.faqs-imgs-thumb img {
+    margin-left: 0;
+    margin-bottom: 40px;
+}
+.faqs-content {
+    padding: 34px 19px 80px;
+}
+.accordion h3 {
+    font-size: 15px;
+    text-indent: 22px;
+}
+.accordion li p {
+    font-size: 14px;
+    width: 96%;
+    margin-left: 13px;
+}
+/*portfoli-section*/
+.portfolio-area .section-title p {
+    width: 100%;
+}
+.portfolio_menu ul li {
+    margin-bottom: 25px;
+}
+
+/*--porfolio-details-section--*/
+.row.box-shadow {
+    padding: 58px 30px 56px;
+}
+.portfolio-details-thumb img {
+    margin-left: 0;
+    margin-bottom: 28px;
+}
+/*service-inner*/
+.service-area-tow {
+    padding: 105px 0 100px;
+}
+.service-box-tow {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+/*top-bar-section--*/
+.top-bar-header {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+/*hero-section*/
+.hero-area {
+    height: 660px;
+}
+.hero-content h1 {
+    font-size: 30px;
+    line-height: 41px;
+}
+.hero-content p {
+    width: 100%;
+}
+.hero-button a {
+    margin-left: 6px;
+    margin-bottom: 20px;
+}
+/*about-section*/
+.about-area {
+    padding: 97px 0 98px;
+}
+.about-thumb {
+    margin-left: 0;
+}
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.vedio {
+    right: 6%;
+    bottom: 41%;
+}
+/*section-title*/
+.section-title h1 {
+    font-size: 20px;
+    line-height: 26px;
+}
+.section-title p.description {
+    width: 100%;
+}
+.section-title p.text {
+    width: 100%;
+}
+
+/*blog-section*/
+.blog-area {
+    padding: 100px 0 79px;
+}
+.blog-area.blog-list {
+    padding: 100px 0 79px;
+}
+.blog-area.blog-grid {
+    padding: 98px 0 86px;
+}
+.blog-area.blog-list .blog-content p {
+    width: 100%;
+}
+.single-blog-box {
+    margin-bottom: 22px;
+}
+.blog-content {
+    padding: 16px 8px 30px;
+}
+.blog-content h4 a {
+    font-size: 19px;
+}
+/*faeture-section*/
+.faeture-area {
+    padding: 87px 0 73px;
+}
+.faeture-content-tow {
+    margin-bottom: 40px;
+}
+.faeture-box.box-grid {
+    margin-top: 0;
+}
+.faeture-box {
+    margin-bottom: 26px;
+}
+
+/*about-section-tow*/
+.about-area-tow {
+    padding: 97px 0 97px;
+}
+.about-thumb-tow {
+    margin-right: 0;
+}
+.about-thumb-tow img {
+    width: 100%;
+}
+
+.about-content-tow {
+    margin-top: 100px;
+}
+.circle-chart {
+    width: 52px;
+}
+
+.skill-box p {
+    margin-top: 24px;
+    margin-left: 8px;
+    width: 70%;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+
+/*service-section*/
+.services-area {
+    padding: 86px 0 80px;
+}
+.service-content h4 {
+    font-size: 20px;
+}
+.service-box {
+    padding: 42px 6px 34px;
+}
+.service-content h4 {
+    font-size: 20px;
+}
+
+/*subscribe-section*/
+.subscribe-area {
+    padding: 87px 0 100px;
+}
+.subscribe-area .section-title p.text {
+    width: 100%;
+}
+.subscribe-form input {
+    width: 100%;
+     padding-right: 113px;
+}
+.subscribe-form button {
+    padding: 11px 12px;
+    right: 6%;
+}
+
+/*testi-section*/
+.testimonial-area {
+    padding: 87px 0 92px;
+}
+.testimonial-box {
+    margin-right: 0;
+}
+.testi-desc p {
+    padding: 32px 18px 73px;
+}
+/*contact-info-section*/
+.contact-information-area {
+    padding: 100px 0 69px;
+}
+.contact-information-box {
+    margin-bottom: 30px;
+}
+.google-map iframe {
+    width: 100%;
+    height: 340px;
+}
+
+
+/*footer-section*/
+.footer-area {
+    padding: 100px 0 34px;
+}
+.footer-widget-content {
+    margin-top: 50px;
+}
+.footer-subscribe-form input {
+    padding-right: 47px;
+}
+
+.copyright-area {
+    margin-top: 75px;
+}
+
+
+/*breadcumb-section*/
+.bradcumb-area {
+    text-align: center;
+}
+.bradcumb-content h1 {
+    font-size: 34px;
+    margin-bottom: 11px;
+}
+.bradcumb-content ul li {
+    font-size: 18px;
+}
+.bradcumb-content ul li a {
+    font-size: 18px;
+}
+
+/*about-inner*/
+.about-area-inner {
+    padding: 98px 0 100px;
+}
+.about-area-inner .about-thumb {
+    margin-left: 0;
+}
+
+.about-area-inner .vedio {
+    right: 9%;
+    bottom: 19%;
+    background: transparent;
+}
+.about-list-item ul li {
+    font-size: 14px;
+}
+
+/*--blog-details--*/
+.blog-detials-area {
+    padding: 89px 0 68px;
+}
+.blog-details-meta span {
+    margin-right: 20px;
+    display: block;
+}
+.blog-details-content h2 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.blog-details-content h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.blog-details-content-list p {
+    margin-bottom: 18px;
+}
+
+.blog-details-social {
+    text-align: left;
+    margin-top: 20px;
+}
+.blog-details-button a.active {
+    margin-top: 7px;
+}
+.blog-details-author-thumb {
+    float: inherit;
+    margin-right: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.blog-details-author-content h2 {
+    font-size: 18px;;
+}
+.blog-details-author-content {
+    text-align: center;
+}
+
+.blog-details-author-inner {
+    padding: 30px 8px 25px;
+}
+.blog-details-comment-reply a {
+    display: none;
+}
+.blog-details-comment-thumb {
+    float: left;
+    margin-right: 0;
+}
+
+.blog-details-comment-thumb img {
+    width: 88%;
+}
+
+.blog-details-comment.reply {
+    margin-left: 0;
+}
+
+.blog-details-contact {
+    margin: 0;
+}
+
+.sidber-widget-recent-post .recent-widget-content a {
+    font-size: 15px;
+}
+.recent-widget-content span {
+    font-size: 11px;;
+}
+.sidber-widget-recent-post .recent-widget-content span i {
+    margin-right: 0;
+}
+.widget-categories-menu ul li a {
+    font-size: 13px;
+}
+
+/*--services-details--*/
+.service-detials-area {
+    padding: 90px 0 69px;
+}
+
+.service-details-main-title h1 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.service-details-choose-us-title h2 {
+    font-size: 22px;
+}
+
+.service-details-overview-list ul li {
+    padding-top: 10px;
+}
+
+.service-details-overview-list ul li::before {
+    top: 18px;
+}
+
+/*--account-css--*/
+.account-area {
+    padding: 85px 0 107px;
+}
+.back-home {
+    float: left;
+    margin-top: 20px;
+}
+.d-single-info {
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+.tabcontent {
+    margin-top: 33px;
+}
+
+/*--Start-account-details-css--*/
+.account-details-area {
+    padding: 97px 0 108px;
+}
+.details-content h4 {
+    font-size: 18px;
+}
+.account-input-box input {
+    margin-bottom: 24px;
+}
+
+/*blog-tow-column*/
+.blog-area.blog-tow-column {
+    padding: 98px 0 78px;
+}
+
+/*contact-form*/
+.contact-area {
+    padding: 100px 0 100px;
+}
+.contact-form {
+    padding: 34px 20px 48px;
+    margin-bottom: 40px;
+}
+
+.contact-content h4 {
+    font-size: 16px;
+    line-height: 27px;
+}
+/*faqs-section*/
+.faqs-area {
+    padding: 98px 0 108px;
+}
+.faqs-imgs-thumb img {
+    margin-left: 0;
+    margin-bottom: 30px;
+}
+.faqs-content {
+    padding: 34px 8px 80px;
+}
+.faqs-content h4 {
+    font-size: 16px;
+    line-height: 22px;
+}
+.accordion h3 {
+    text-indent: 5px;
+    font-size: 12px;
+}
+
+.accordion li p {
+    font-size: 12px;
+    margin-left: -2px;
+}
+
+.accordion h3::after {
+    top: 28px;
+}
+/*portfolio-section*/
+.portfolio-area {
+    padding: 84px 0 78px;
+}
+.portfolio-area .section-title p {
+    width: 100%;
+}
+.portfolio_menu ul li {
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+/*--portfolio-details-section--*/
+.portfolio-details-area {
+    padding: 100px 0 100px;
+}
+.row.box-shadow {
+    padding: 58px 0 56px;
+}
+.portfolio-details-thumb img {
+    margin-left: 0;
+    margin-bottom: 26px;
+}
+.portfolio-details-content ul li strong {
+    font-size: 15px;
+}
+.portfolio-details-content ul li {
+    font-size: 14px;
+}
+/*inner-service*/
+.service-area-tow {
+    padding: 87px 0 80px;
+}
+.service-content-tow {
+    top: 6%;
+}
+.service-box-tow {
+    margin-bottom: 20px;
+}
+/*team-section*/
+.team-area {
+    padding: 85px 0 100px;
+}
+.team-social-icon {
+    right: -51%;
+}
+
+
+
+}
+
+
+
